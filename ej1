@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main()
+{
+    int a = 21603;
+    printf("Santiago Sánchez Castañeda, Carnet: %d\n", a);
+    return 0;
+}
